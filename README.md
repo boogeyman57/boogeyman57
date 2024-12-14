@@ -1,7 +1,9 @@
 # Hello, I'm Dharmateja Kollipara
 <a href="https://www.linkedin.com/in/dharmateja-cyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
+<a href="https://boogeyman57.github.io/about/"><img src="https://img.shields.io/badge/-Portfolio-24292F?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://infosec.exchange/@boogeyman57"><img src="https://img.shields.io/badge/-Infosec_Exchange-7289DA?&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+<a href="https://medium.com/@dharmatejak73"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://x.com/teja0072"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 Successful career demonstrating positive results in mitigating risk through proactive solutions and problem-solving. Hands-on in leading all stages of security development, regulatory projects, monitoring, investigation, and support with the latest tools and technology.  
 
@@ -50,8 +52,6 @@ in proactive defense measures and security event management
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-
 </div>
 
 ## Projects
