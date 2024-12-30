@@ -24,11 +24,14 @@ in proactive defense measures and security event management
 | Incident Response Planning and Execution        | SOC Automation Lab                               |
 | Case Management with TheHive                    | SOC Automation Lab                               |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                               |
+| Ethical Hacking, Penetration Testing, and Red Teaming | [Home Lab](#)                              |
 | Vulnerability Management                        | [Vulnerability Scanning with Nessus](#)          |
 | System Auditing                                 | [Reconnaissance on TestLab](#)                   |
 | Application Auditing                            | [Test Upload of Malicious Files](#)              |
 | Social Engineering                              | [Phishing Simulation using GoPhish](#)           |
 | Open Source Intelligence (OSINT)                | [Gathering OSINT Data](#)                        |
+
+
 
 
 ## Tools
