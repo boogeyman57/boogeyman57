@@ -77,10 +77,9 @@ in proactive defense measures and security event management
 <div>
     <img src="https://img.shields.io/badge/-Maltego-1679A7?&style=for-the-badge&logo=maltego&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logo=shodan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Recon-ng-5C2D91?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Recon--ng-5C2D91?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-The_Harvester-FF5733?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
-
 
 ## Certifications
 <div>
