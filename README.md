@@ -16,14 +16,20 @@ in proactive defense measures and security event management
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                           | Associated Project                               |
+|-------------------------------------------------|--------------------------------------------------|
+| SIEM Implementation and Log Analysis            | [Detection Lab](https://google.com)              |
+| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com)              |
+| Security Automation with Shuffle SOAR           | SOC Automation Lab                               |
+| Incident Response Planning and Execution        | SOC Automation Lab                               |
+| Case Management with TheHive                    | SOC Automation Lab                               |
+| Scripting and Automation for Threat Mitigation  | SOC Automation Lab                               |
+| Vulnerability Management                        | [Vulnerability Scanning with Nessus](#)          |
+| System Auditing                                 | [Reconnaissance on TestLab](#)                   |
+| Application Auditing                            | [Test Upload of Malicious Files](#)              |
+| Social Engineering                              | [Phishing Simulation using GoPhish](#)           |
+| Open Source Intelligence (OSINT)                | [Gathering OSINT Data](#)                        |
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
