@@ -24,7 +24,7 @@ in proactive defense measures and security event management
 | Incident Response Planning and Execution        | SOC Automation Lab                               |
 | Case Management with TheHive                    | SOC Automation Lab                               |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                               |
-| Ethical Hacking, Penetration Testing, and Red Teaming | [Home Lab](#)                              |
+| Ethical Hacking, Penetration Testing, and Red Teaming | [Home Lab](https://medium.com/@dharmatejak73/home-lab-for-ethical-hacking-90484c6bd33c)|
 | Vulnerability Management                        | [Vulnerability Scanning with Nessus](#)          |
 | System Auditing                                 | [Reconnaissance on TestLab](#)                   |
 | Application Auditing                            | [Test Upload of Malicious Files](#)              |
