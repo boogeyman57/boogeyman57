@@ -25,7 +25,7 @@ in proactive defense measures and security event management
 | Case Management with TheHive                    | SOC Automation Lab                               |
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                               |
 | Ethical Hacking, Penetration Testing, and Red Teaming | [Home Lab](https://boogeyman57.github.io/posts/HomeLab-for-EthicalHacking/)|
-| Vulnerability Management                        | [Vulnerability Scanning with Nessus](#)          |
+| Vulnerability Management                        | [Vulnerability Scanning with Nessus](https://boogeyman57.github.io/posts/Vulnerability-Scanning-with-Nessus/#2-install-nessus)|
 | System Auditing                                 | [Reconnaissance on TestLab](#)                   |
 | Application Auditing                            | [Test Upload of Malicious Files](#)              |
 | Social Engineering                              | [Phishing Simulation using GoPhish](#)           |
