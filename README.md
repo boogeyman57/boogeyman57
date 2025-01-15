@@ -26,7 +26,7 @@ in proactive defense measures and security event management
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab                               |
 | Ethical Hacking, Penetration Testing, and Red Teaming | [Home Lab](https://boogeyman57.github.io/posts/HomeLab-for-EthicalHacking/)|
 | Vulnerability Management                        | [Vulnerability Scanning with Nessus](https://boogeyman57.github.io/posts/Vulnerability-Scanning-with-Nessus/#2-install-nessus)|
-| Vulnearbility Management                        | [Risk Score & Rating Calculation Using CVSS 3.0](#)|
+| Vulnearbility Management                        | [Risk Score & Rating Calculation Using CVSS 3.0](https://boogeyman57.github.io/posts/Risk-Score-&-Rating-Calculation-Using-CVSS-3.0/)|
 | System Auditing                                 | [Reconnaissance on TestLab](#)                   |
 | Application Auditing                            | [Test Upload of Malicious Files](#)              |
 | Social Engineering                              | [Phishing Simulation using GoPhish](#)           |
