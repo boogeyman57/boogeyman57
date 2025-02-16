@@ -7,12 +7,9 @@
 
 Successful career demonstrating positive results in mitigating risk through proactive solutions and problem-solving. Hands-on in leading all stages of security development, regulatory projects, monitoring, investigation, and support with the latest tools and technology.  
 
-## Objective
+## Summary
 
-Cyber Security Engineer with 7 years of experience in threat monitoring, incident analysis, and vulnerability 
-assessment. Skilled in developing and evaluating security solutions, demonstrating leadership in a 24x7 Security 
-Operations Center environment. Actively seeking a role as Information Security Engineer Operations to apply expertise 
-in proactive defense measures and security event management
+Security Engineer with 6 years of experience in security automation, threat detection, and DevSecOps. Proven ability to engineer scalable security solutions, streamline incident response, and integrate cutting-edge security frameworks across cloud and application security domains. Experienced in applying AI/ML models to cybersecurity for enhanced threat detection and anomaly analysis.
 
 ## Skills
 
