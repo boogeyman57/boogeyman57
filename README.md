@@ -9,7 +9,7 @@ Successful career demonstrating positive results in mitigating risk through proa
 
 ## Summary
 
-Security Engineer with 6 years of experience in security automation, threat detection, and DevSecOps. Proven ability to engineer scalable security solutions, streamline incident response, and integrate cutting-edge security frameworks across cloud and application security domains. Experienced in applying AI/ML models to cybersecurity for enhanced threat detection and anomaly analysis.
+Security Engineer with 5 years of experience in security automation, threat detection, and DevSecOps. Proven ability to engineer scalable security solutions, streamline incident response, and integrate cutting-edge security frameworks across cloud and application security domains. Experienced in applying AI/ML models to cybersecurity for enhanced threat detection and anomaly analysis.
 
 ## Skills
 
